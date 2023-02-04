@@ -1,0 +1,30 @@
+{
+  "name": "search-book",
+  "version": "1.0.0",
+  "description": "MERN stack application which allow users to save book searches to the back end. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMA1970/Search-Book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.11.0",
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/EMA1970/Search-Book/issues"
+  },
+  "homepage": "https://github.com/EMA1970/Search-Book#readme"
+}
